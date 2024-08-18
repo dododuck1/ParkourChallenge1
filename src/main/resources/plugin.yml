@@ -1,0 +1,10 @@
+name: ParkourChallenge
+version: 1.0
+main: com.example.parkourchallenge.ParkourChallenge
+api-version: 1.20
+commands:
+  parkour:
+    description: Main command for Parkour Challenge
+    usage: /parkour <create|delete|tnt|change_block|edit|speed|arrow_rain|wolf|chicken>
+    aliases: [pk]
+
