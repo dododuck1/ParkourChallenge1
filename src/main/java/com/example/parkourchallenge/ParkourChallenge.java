@@ -145,7 +145,7 @@ public class ParkourChallenge extends JavaPlugin implements Listener, CommandExe
                 newMaterial = Material.STONE;
                 break;
             case 2:
-                newMaterial = Material.WOOD;
+                newMaterial = Material.OAK_WOOD;
                 break;
             case 3:
                 newMaterial = Material.GLASS;
